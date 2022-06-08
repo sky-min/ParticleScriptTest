@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/sky-min/ParticleScriptTest
+build-by-default: true
+branches:
+- master
+projects:
+  ParticleScriptTest:
+    path: ""
+    libs:
+      - src: sky-min/ParticleScript/ParticleScript
+        version: ^1.0.1
+...
