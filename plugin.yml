@@ -1,0 +1,5 @@
+name: ParticleScriptTest
+main: skymin\test\Main
+api: 4.4.0
+version: 1.0.0
+author: skymin
